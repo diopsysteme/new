@@ -1,0 +1,245 @@
+
+select
+{
+  width: 400px;
+  text-align: center;
+}
+img
+{
+  width: 50%;
+  height: 500px;
+}
+.hide
+{
+  display: none;
+}
+.coche
+{
+  width: 300%;
+  height:30px;
+  background-color: green;
+}
+.inp
+{
+  position: absolute;
+  top: 19%;
+  left: 81%;
+  display:block block;
+  align-content:right ;  
+  align-items: right;
+  width: 10%;
+
+}
+
+
+button
+{
+  width: 40%;
+  height: 100%;
+  border: 0ch;
+  border-radius: 10px 10px;
+  object-fit: cover;
+  transition: 0.8s linear;
+
+}
+
+.buts
+{
+  position: fixed;
+  position: absolute;
+  width: 25% ;
+  height: 7%;
+  left:75%;
+  top: 50%;
+}
+/*.termine{
+  top: 90%;
+  left: 78%;
+  position: absolute;
+  width: 200px;
+}*/
+button.term
+{
+  width: 5%;
+  height: 5%;
+}
+td
+{
+  padding: 2% ;
+}
+.img2
+{
+  position:absolute;
+  position: fixed;
+  left:0%;
+  top: 1%;
+  width: 60%;
+  border:solid 2px;
+}
+
+.b3
+{
+  position: absolute;
+  width: 27%;
+  height: 10%;
+  top: 65%;
+  left: 72%;
+
+}
+
+.last
+{
+  width:20%;
+  height:5%;
+}
+.last:hover
+{
+  background-color: lightgray;
+}
+.b01:hover
+{
+  background-color: rgb(243, 131, 131);
+
+}
+.b1:hover
+{
+  
+  background-color: rgb(132, 235, 132);
+}
+.last:hover
+{
+  background-color: lightgreen;
+  transform: scale(1.1);
+}
+.b2:hover
+{
+  background-color: lightgreen;
+  transform: scale(1.1);
+}
+.b3:hover
+{
+  background-color: lightgreen;
+  transform: scale(1.1);
+}
+.col
+{
+  width: 5%;
+  height: 2%;
+  border: 1px;
+  color: rgba(245, 98, 98);
+}
+.butFin:hover
+{
+  background-color: black;
+}
+.butFin
+{
+  width: 5%;
+  height: 2%;
+  transition: all 2œs ease;
+}
+button:hover
+{
+  background-color: grey;
+  transform: scale(1.1);
+}
+* 
+{ 
+  margin: auto;
+  
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+
+.chronometre 
+{
+  position:absolute;
+  position:fixed;
+  background-color: #fff;
+  padding: 1px;
+  text-align: center;
+  border-radius: 6px;
+  width:27%;   
+  height: 190px;
+}
+
+.temps 
+{
+  margin: auto;
+  width: 100%;
+  border: 1px solid gray;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 35px;
+  padding: 5px 0;
+  margin-bottom: 10px;
+}
+
+
+.bouton
+{
+  display: flex;
+  width: 60%;
+  height: 20%;
+  justify-content: space-betweens;
+}
+
+.bouton #start:hover
+{
+  background-color:lightgreen
+}
+.bouton #reset:hover
+{
+  background-color:red
+}
+.bouton #stop:hover
+{
+  background-color:orange
+}
+
+.ht{
+  height: 100%;
+}
+.box{
+  height: 100%;
+}
+div{
+  text-align: center;
+}
+.lastTab{
+  height: 80%;
+}
+.lastTab tr td{
+  width: 2%;
+  height: 20%;
+}
+.lastTab tr td button{
+  width: 100%;
+  height: 100%;
+}
+.lastinp{
+  width:50%;
+  height: 50%;
+  top: 10%;
+  left: 50%;
+  position: absolute;
+  
+}
+.correct{
+ 
+  grid-template: 4;
+}
+.correct tr td {
+  width:20%;
+  height: 20%;
+}
+.correct tr td div{
+  width:100%;
+  height: 100%;
+}
+.lastinp button{
+  width: 15%;
+  height: 15%;
+  
+}
