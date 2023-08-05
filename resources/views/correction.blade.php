@@ -140,7 +140,9 @@ fin.forEach(ele=>{
 })
 
 
-
+function finish(){
+    location
+}
     
   </script>
 

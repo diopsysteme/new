@@ -47,13 +47,13 @@
                 
             </div>  
             <div id="buts" class="buts">
-                <button class="b2" onclick="p_img()">PREVIOUS  </button> <button class="b2" onclick="s_img()"> NEXT</button>
+                <button class="sp" onclick="p_img()">PREVIOUS  </button> <button class="sp" onclick="s_img()"> NEXT</button>
                 
                 
             </div>
         
                
-                 <button onclick="finish()" class="b3">FINISH</button> 
+                 <button onclick="finish()" class="finish">FINISH</button> 
           
            
                   

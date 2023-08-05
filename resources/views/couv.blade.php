@@ -20,7 +20,7 @@
         <img id="couv" src="" alt="" style="width: 45%;">
         <br>
         
-        <div class="but"><a href="/exam/accueil"><button  style="width: 22%;height: 50px;">  CANCEL </button> </a>     <a href="/exam/teste-B{{$num}}"><button class="b1" onclick="Start()" style="width: 22%;height: 50px;">  START  </button></a></div>
+        <div ><a href="/exam/accueil"><button  class="butCouv" style="">  CANCEL </button> </a>     <a href="/exam/teste-B{{$num}}"><button onclick="Start()" class="butCouv" >  START  </button></a></div>
 </div>
   </body>
 <script>
