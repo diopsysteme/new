@@ -1,3 +1,2 @@
 [build]
-command = "php --version"  # Update with your build command
-environment = { PHP_VERSION = "8.1" } 
+  publish = "dist"
